@@ -6,3 +6,4 @@ Ping Monster is a freeware ping monitoring tool that comes with some alert actio
 
 ![alt tag](https://github.com/egzola/Ping-Monster/blob/master/pingmonster_screen2.png)
 
+ 
