@@ -1,4 +1,4 @@
-# Ping-Monster v1.8
+# Ping-Monster v1.9
 
 ![alt tag](https://github.com/egzola/Ping-Monster/blob/master/pingmonster_logo.png)
 
